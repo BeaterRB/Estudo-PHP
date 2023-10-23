@@ -1,0 +1,37 @@
+GIT - GITHUB
+
+Clonar Repositorio (baixar arquivo)
+
+$ git clone (link do repositorio + pasta)
+
+Iniciar um controle de versao na pasta 
+
+$ git init 
+
+Colocar o arquivo na sala de espera ate o commit
+
+$ git add (nome do arquivo/ "." para selecionar todos)
+
+commitar arquivo (confimar que o arquivo pode ser adicionado ao repositorio)
+
+$ git commit -m "mensagem que voce desejar"
+
+adicionar um nome e email ao nosso usuario que ira utilizar o github
+
+$ git config --global user.email "email"
+$ git config --global user,name "nome"
+
+adicionar o nome do repositorio em que iremos utilizar
+
+$ git remote origin (link do repositorio)
+
+empurrar o arquivo para o repositorio
+
+$git push origin master
+
+atualizar o arquivo que baixamos do repositorio para nossa maquina
+
+$git pull origin master  	*SEMPRE FAZER O PULL(ATUALIZAR) ANTES DE COMMITAR SEU ARQUIVO
+
+
+

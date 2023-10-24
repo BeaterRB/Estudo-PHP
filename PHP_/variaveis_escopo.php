@@ -1,4 +1,6 @@
 <?php
+    echo  "tipo Escopo";
+    echo "<br>"; 
 
 $nome = "atila";
 

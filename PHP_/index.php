@@ -10,7 +10,6 @@
 
     <h3> Variaveis </h3>
 
-    <li>VARIAVEIS: <a href="variaveis.php"> Ver Mais </a></li>
     <ul>
         <li>Tipos de Variaveis <a href="variaveis_tipos.php"> Ver Mais </a></li>
         <li>Pre Definidas <a href="variaveisPre_definida.php"> Ver Mais </a></li>
@@ -19,7 +18,13 @@
 
     <h3> Operadores </h3>
 
-    <li>OPERADORES: <a href="operadores.php"> Ver Mais </a></li>
-
+    <ul>
+        <li>Operadores Atribuiçao: <a href="operadores_atribuiçao.php"> Ver Mais </a></li>
+        <li>Operadores Aritmeticos: <a href="operadores_aritmeticos.php"> Ver Mais </a></li>
+        <li>Operadores Comparaçao: <a href="operadores_comparaçao.php"> Ver Mais </a></li>
+        <li>Operadores EspaceChip: <a href="operadores_espace.php"> Ver Mais </a></li>
+        <li>Operadores Null: <a href="operadores_null.php"> Ver Mais </a></li>
+        <li>Operadores Incremento: <a href="operadores_incremento.php"> Ver Mais </a></li>
+    </ul>
 </body>
 </html>

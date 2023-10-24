@@ -1,6 +1,7 @@
 <?php 
 
-    //  tipo simples
+    echo  "tipo simples";
+    echo "<br>"; 
 
 $nome = "Atila";
 
@@ -14,7 +15,9 @@ $bloqueado = false;
 
 ////////////////////////////////////////////////////
 
-    //  tipo composto
+    echo  "tipo composto";
+    echo "<br>"; 
+
 $frutas = array("maracuja", "Kiwi" , "Abacate");
 
 //echo $frutas[1];
@@ -26,7 +29,8 @@ $nascimento = new DateTime();
 //var_dump($nascimento);
 ////////////////////////////////////////////////////
 
-    // tipo especial 
+    echo  "tipo especial";
+    echo "<br>"; 
 
 $arquivo = fopen("variaveis.php", "r");
 //var_dump($arquivo);
